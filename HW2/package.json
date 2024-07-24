@@ -1,0 +1,13 @@
+{
+    "name": "ftinchestocm",
+    "version": "1.0.0",
+    "main": "converter.js",
+    "type": "module",
+    "scripts": {
+        "go": "node ./index.js"
+    },
+    "keywords": [],
+    "author": "666Racer",
+    "license": "ISC",
+    "description": "converter feet and inches to cm"
+}
